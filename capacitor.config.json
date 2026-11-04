@@ -1,0 +1,14 @@
+{
+  "appId": "com.ptag.user",
+  "appName": "PTag User",
+  "webDir": "build",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}
