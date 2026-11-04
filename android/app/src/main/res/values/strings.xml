@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PTag User</string>
+    <string name="title_activity_main">PTag User</string>
+    <string name="package_name">com.ptag.user</string>
+    <string name="custom_url_scheme">com.ptag.user</string>
+</resources>
