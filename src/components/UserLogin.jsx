@@ -4,7 +4,7 @@ import { useNavigate, Link } from "react-router-dom";
 import usePageTitle from '../usePageTitle';
 import ptagLogo from '../assets/PTag.png';
 
-const BASE_URL = "https://scouring-pointy-bagging.ngrok-free.dev";
+const BASE_URL = "http://31.97.232.140:8080";
 
 const UserLogin = ({ onLogin }) => {
   usePageTitle("User Login");
