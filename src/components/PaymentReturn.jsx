@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from "react";
 import { useSearchParams } from "react-router-dom";
 
-const BASE_URL = "https://scouring-pointy-bagging.ngrok-free.dev";
+const BASE_URL = "http://31.97.232.140:8080";
 
 const PaymentReturn = () => {
   const [searchParams] = useSearchParams();
